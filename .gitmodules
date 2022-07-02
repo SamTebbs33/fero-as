@@ -1,0 +1,3 @@
+[submodule "fero-arch"]
+	path = fero-arch
+	url = git@github.com:SamTebbs33/fero-arch
